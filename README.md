@@ -35,7 +35,7 @@ The HAR model demonstrates the ability to capture persistent volatility dynamics
 - Financial econometrics and volatility modeling  
 - High-frequency data aggregation and preprocessing  
 - Time-series regression and walk-forward validation  
-- Python: `numpy`, `pandas`, `statsmodels`, `scikit-learn`, `ccxt`
+- Python: `numpy`, `pandas`, `ccxt`
 
 ---
 
